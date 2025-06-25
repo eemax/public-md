@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bd139e1374bc8f50",
+        "id": "2316c2afd01bd65e",
         "type": "tabs",
         "children": [
           {
-            "id": "6a039c79cb00cf2e",
+            "id": "596d2a5d75c4b0ef",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,8 +162,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a039c79cb00cf2e",
+  "active": "596d2a5d75c4b0ef",
   "lastOpenFiles": [
+    "create new file.md",
     "test.md"
   ]
 }
