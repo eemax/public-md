@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "create new file 2.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "create new file 2"
+              "title": "test"
             }
           }
         ]
@@ -168,8 +168,8 @@
   },
   "active": "d3b2b121f3570362",
   "lastOpenFiles": [
-    "test.md",
     "new file 3.md",
+    "test.md",
     "create new file 2.md",
     "create new file.md"
   ]
