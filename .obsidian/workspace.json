@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "GitHub Email"
             }
+          },
+          {
+            "id": "523bd7236319c09c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GitHub Email.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GitHub Email"
+              "title": "Backlinks for conflict-files-obsidian-git"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GitHub Email.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from GitHub Email"
+              "title": "Outgoing links from conflict-files-obsidian-git"
             }
           },
           {
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GitHub Email.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GitHub Email"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           }
         ]
@@ -169,6 +184,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c43218f5793674d1",
-  "lastOpenFiles": []
+  "active": "523bd7236319c09c",
+  "lastOpenFiles": [
+    "GitHub Email.md",
+    "conflict-files-obsidian-git.md"
+  ]
 }
