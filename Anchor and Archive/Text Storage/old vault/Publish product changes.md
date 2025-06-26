@@ -1,0 +1,1 @@
+Have an obsidian publish style product change push integration.

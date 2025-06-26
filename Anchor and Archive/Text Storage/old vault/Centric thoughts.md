@@ -1,0 +1,1 @@
+We need to only have placement and then the ranking is always consumption
