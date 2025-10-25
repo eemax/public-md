@@ -1,3 +1,0 @@
-```
-ZM2WAMC-YC9SAZH-7C83BHP
-```

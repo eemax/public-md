@@ -1,8 +1,0 @@
-- Third extended care section
-- Move color and size into the KV
-- move taric, ean, purchase order, contacts into "general section" under supply chain
-- group all certs
-- change name to view "all" certificates
-- change text on T1 T2 to be only name and dhaka bangladesh
-- maybe add poly farm
-- change name of "click to view calc"

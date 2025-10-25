@@ -1,1 +1,0 @@
-Check who to contact in sourcing and buying for data collection. We likely need MASSIVE resource increase for data collection.
